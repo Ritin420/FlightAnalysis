@@ -35,5 +35,5 @@ The notebook explores trends in passenger numbers, calculates percentage changes
 ## 👤 Author
 - **RItin Chauhan**  
 - GitHub: [@Ritin420](https://github.com/Ritin420)  
-- LinkedIn: [www.linkedin.com/in/sauvir-wodehra-032821257](https://www.linkedin.com/in/sauvir-wodehra-032821257)  
+
 
